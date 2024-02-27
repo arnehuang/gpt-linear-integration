@@ -1,5 +1,11 @@
 # Description
-api to trigger linear tickets from customer support chat transcripts
+API to trigger linear tickets from customer support chat transcripts
+
+
+https://github.com/arnehuang/gpt-linear-integration/assets/9079232/9b9ded4c-f585-4443-8284-a4d68183155f
+
+
+
 
 # Setup
 Python 3.11+ 
